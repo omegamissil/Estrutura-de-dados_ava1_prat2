@@ -1,0 +1,1 @@
+Programa em C, que implementa uma estrutura de dados do tipo Fila Circular (FIFO), com alocação dinâmica de memória. O sistema oferece um menu interativo para inserção, remoção, exibição dos elementos, relatório do uso de memória (espaços livres e ocupados) e reinicialização da fila.
